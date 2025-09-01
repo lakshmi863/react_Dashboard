@@ -10,6 +10,9 @@ home page front view
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![sho](https://github.com/user-attachments/assets/856fee17-281e-4478-ab7f-39dce5d136cc)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
