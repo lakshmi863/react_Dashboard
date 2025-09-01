@@ -2,6 +2,12 @@
 
 WebSite link( https://react-dashboard-bu65.onrender.com/ )
 
+home page front view 
+
+<img width="1900" height="2298" alt="react-dashboard-bu65 onrender com_" src="https://github.com/user-attachments/assets/5d6053b1-a07a-4d0c-a582-05dc4bf9d70d" />
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
