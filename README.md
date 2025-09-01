@@ -11,7 +11,8 @@ home page front view
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 shop view 
-![Uploading shop_formphotoeditor.com.jpg…]()
+
+![shop_formphotoeditor com](https://github.com/user-attachments/assets/44957881-e89b-4f1a-889b-a53ea17f7e6d)
 
 
 
